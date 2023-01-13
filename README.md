@@ -8,7 +8,7 @@ Searches for restaurants and displays photos of the restaurant once clicked usin
 
 - <b>React Native</b> 
 - <b>React</b>
-- <bJavascript/>
+- <b>Javascript<b/>
 
 
 <h2>Program walk-through:</h2>
