@@ -6,8 +6,9 @@ Searches for restaurants and displays photos of the restaurant once clicked usin
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Javascript</b> 
-- <b>React Native</b>
+- <b>React Native</b> 
+- <b>React</b>
+- <bJavascript/>
 
 
 <h2>Program walk-through:</h2>
