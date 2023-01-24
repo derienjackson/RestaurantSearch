@@ -14,9 +14,9 @@ Searches for restaurants and displays photos of the restaurant once clicked usin
 
 <p align="center">
 Restaurant Search Screen <br/>
-<img src="https://i.imgur.com/pgqeH8J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pgqeH8J.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 
 <p align="center">
 Restaurant Images Screen <br/>
-<img src="https://i.imgur.com/Zttft4w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Zttft4w.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 <br />
