@@ -1,6 +1,6 @@
 # RestaurantSearch (Mobile)
 <h2>Description</h2>
-Searches for restaurants and displays photos of the restaurant once clicked using yelp API
+Searches for restaurants and displays photos of the restaurant once clicked using network requests to the Yelp API
 <br />
 
 
